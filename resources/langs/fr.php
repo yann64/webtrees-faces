@@ -21,7 +21,7 @@ return [
     // Config: Settings
     'Settings' => 'Paramètres',
     'Read XMP data' => 'Lire les données XMP',
-    'Read and show XMP data (such as Goggle Picasa face tags) from media file' => 'Lire et afficher les données XMP (telles que les balises de visage Goggle Picasa) à partir d`un fichier multimédia',
+    'Read and show XMP data (such as Google Picasa face tags) from media file' => 'Lire et afficher les données XMP (telles que les balises de visage Google Picasa) à partir d`un fichier multimédia',
     'Create links' => 'Créer des liens',
     'Link individual with media when mark them on photo' => 'Lier un individu aux médias lorsque vous les marquez sur la photo',
     'Show meta' => 'Afficher les données méta',
